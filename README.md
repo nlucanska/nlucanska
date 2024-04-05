@@ -1,4 +1,12 @@
-### Hi, I'm Natália Lučanská 👋 
+### Hey there! My name is Natália 👋 
+
+I'm all about diving into the fascinating world of numbers, algorithms, and coding. Math, programming, and playing around with data are my jam! Seriously, I could spend hours tinkering away at it.
+
+You can call me a bit of a data science enthusiast. I've taken a few online courses to get the lowdown on data science and data analysis. I've wrapped my head around the basics of SQL, Python, and ML algorithms through these courses.
+
+When I'm not buried in textbooks or online lectures, I'm knee-deep in projects. From data scraping to cleaning, analyzing, and modeling, I've been getting my hands dirty with all sorts of data-related tasks. It's where theory meets practice, and I love every bit of it. Let's just say, if there's data involved, count me in!
+
+But yeah, life isn't all about crunching numbers and coding. I've got a soft spot for escaping into fantastical worlds through books — fantasy novels are my cup of tea. And when I'm not lost in a book, you'll probably find me out in the garden, breaking a sweat with some exercise, or maybe even battling it out in a pc game.
 
 ---
 
